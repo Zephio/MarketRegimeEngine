@@ -1,0 +1,6 @@
+ib_insync>=0.9.74
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+hmmlearn>=0.2.8
+ruptures>=1.1
